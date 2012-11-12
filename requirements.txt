@@ -1,0 +1,6 @@
+-e git+https://github.com/django/django.git@19eb56a277291de8c25a0edcc7af111dac7518af#egg=Django-dev
+UNKNOWN==0.0.0
+django-apptemplates==0.0.1
+psycopg2==2.4.5
+dj-database-url==0.2.0
+virtualenv==1.8.2
